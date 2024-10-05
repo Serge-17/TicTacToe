@@ -2,20 +2,6 @@
 
 Welcome to the Tic Tac Toe project! This is a simple implementation of the classic game, designed for both educational purposes and entertainment. Below is a detailed README.md file that outlines the project, its features, installation instructions, usage, and an overview of the code.
 
-## Table of Contents
-
-- [Introduction](#introduction)
-- [Features](#features)
-- [Main Screen](#MainScreen)
-- [Usage](#usage)
-- [Game Rules](#game-rules)
-- [Screenshots](#screenshots)
-- [Code Overview](#code-overview)
-  - [LeaderboardNoGame.swift](#leaderboardnogame-swift)
-  - [LeaderboardTimeResult.swift](#leaderboardtimeresult-swift)
-  - [LeaderboardView.swift](#leaderboardview-swift)
-- [Contributing](#contributing)
-- [License](#license)
 
 ## Introduction
 
@@ -23,7 +9,8 @@ Tic Tac Toe is a two-player game where players take turns marking a square on a 
 
 ## Features
 
-- **Main Screen:** Buttons for "Let's play," "How to play," and "Settings."
+- **Main Screen:**
+- Buttons for "Let's play," "How to play," and "Settings."
 - **Select Game Screen:** Contains two buttons - "Single Player" and "Two Player."
   - The "Single Player" mode leads to the game screen against AI.
   - The "Two Player" mode leads to the game screen with a friend.
