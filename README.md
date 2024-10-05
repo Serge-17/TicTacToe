@@ -6,7 +6,7 @@ Welcome to the Tic Tac Toe project! This is a simple implementation of the class
 
 - [Introduction](#introduction)
 - [Features](#features)
-- [Installation](#installation)
+- [Main Screen](#Main Screen)
 - [Usage](#usage)
 - [Game Rules](#game-rules)
 - [Screenshots](#screenshots)
