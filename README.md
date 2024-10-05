@@ -41,6 +41,8 @@ Tic Tac Toe is a two-player game where players take turns marking a square on a 
   - Allows you to set a time limit for the game and its duration.
   - Customize the appearance of Xs and Os (from available options) using the "Choose" button. Current selection is marked as Picked.
 - **How to Play Screen:** Displays the rules of the game.
+- **Leaderboard:**
+  - The Leaderboard feature tracks player performance in Tic Tac Toe, ranking players based on the fastest game completion times.
 
 ## Installation
 
@@ -48,4 +50,4 @@ To get started with the Tic Tac Toe project, follow these steps:
 
 1. **Clone the repository:**
    ```bash
-   git clone https://github.com/Serge-17/TicTacToe.git
+   git clone https://github.com/glbrom/TicTacToe.git
