@@ -6,7 +6,7 @@ Welcome to the Tic Tac Toe project! This is a simple implementation of the class
 
 - [Introduction](#introduction)
 - [Features](#features)
-- [Main Screen](#Main Screen)
+- [Main Screen](#MainScreen)
 - [Usage](#usage)
 - [Game Rules](#game-rules)
 - [Screenshots](#screenshots)
@@ -40,7 +40,8 @@ Tic Tac Toe is a two-player game where players take turns marking a square on a 
 - **Settings Screen:**
   - Allows you to set a time limit for the game and its duration.
   - Customize the appearance of Xs and Os (from available options) using the "Choose" button. Current selection is marked as Picked.
-- **How to Play Screen:** Displays the rules of the game.
+- **How to Play Screen:**
+  - Displays the rules of the game.
 - **Leaderboard:**
   - The Leaderboard feature tracks player performance in Tic Tac Toe, ranking players based on the fastest game completion times.
 
