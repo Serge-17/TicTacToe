@@ -1,6 +1,6 @@
 # Tic Tac Toe Project
 
-Welcome to the Tic Tac Toe project! This is a simple implementation of the classic game, designed for both educational purposes and entertainment. Below is a detailed README.md file that outlines the project, its features, installation instructions, and usage.
+Welcome to the Tic Tac Toe project! This is a simple implementation of the classic game, designed for both educational purposes and entertainment. Below is a detailed README.md file that outlines the project, its features, installation instructions, usage, and an overview of the code.
 
 ## Table of Contents
 
@@ -10,6 +10,10 @@ Welcome to the Tic Tac Toe project! This is a simple implementation of the class
 - [Usage](#usage)
 - [Game Rules](#game-rules)
 - [Screenshots](#screenshots)
+- [Code Overview](#code-overview)
+  - [LeaderboardNoGame.swift](#leaderboardnogame-swift)
+  - [LeaderboardTimeResult.swift](#leaderboardtimeresult-swift)
+  - [LeaderboardView.swift](#leaderboardview-swift)
 - [Contributing](#contributing)
 - [License](#license)
 
